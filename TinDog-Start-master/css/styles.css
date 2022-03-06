@@ -1,0 +1,80 @@
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#features{
+  padding: 10% 10%;
+}
+
+h1{
+  font-family: "Montserrat-Black", sans-serif;
+  font-weight: bold;
+  font-size: 4.5rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-family: "Montserrat-Black";
+  font-weight: bold;
+  text-align: center;
+}
+
+.featuresp{
+  text-align: center;
+  font-family: "Montserrat-Light";
+  color: grey;
+}
+
+.fafeatures{
+  margin-bottom: 5%;
+  font-size: 60px;
+  color: #ff4c68;
+}
+
+.fafeatures:hover{
+  font-size: 60px;
+  color: red;
+}
+
+.container-fluid {
+  padding: 3% 5%;
+}
+
+body{
+  font-family: "Montserrat";
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 4.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+  width: 60%;
+  transform: rotate(30deg);
+}
+
+.feature-box{
+  text-align: center;
+}
